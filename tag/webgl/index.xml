@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WebGL | Ziyang Guo</title><link>https://guoziyang27.github.io/tag/webgl/</link><atom:link href="https://guoziyang27.github.io/tag/webgl/index.xml" rel="self" type="application/rss+xml"/><description>WebGL</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate><image><url>https://guoziyang27.github.io/media/icon_hu18de2ad7ec4b807275ed5db5bb854576_441071_512x512_fill_lanczos_center_3.png</url><title>WebGL</title><link>https://guoziyang27.github.io/tag/webgl/</link></image><item><title>Flight Simulator</title><link>https://guoziyang27.github.io/project/flight-simulator/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://guoziyang27.github.io/project/flight-simulator/</guid><description>&lt;p>The flight simulator is based on JavaScript/WebGL. As a veteran operator, the player can control the airplane to move in an infinite terrain and avoid crashing into the mountains. It has a simple explosion effect.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="image-flight1" srcset="
+/project/flight-simulator/p1_hu811b77eb99eff1e52d1db0da851a90ec_121962_bfa12db2689c412ce5637ab897b24d03.jpg 400w,
+/project/flight-simulator/p1_hu811b77eb99eff1e52d1db0da851a90ec_121962_dc4c3bf722a015a2c02aef6832842b0f.jpg 760w,
+/project/flight-simulator/p1_hu811b77eb99eff1e52d1db0da851a90ec_121962_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://guoziyang27.github.io/project/flight-simulator/p1_hu811b77eb99eff1e52d1db0da851a90ec_121962_bfa12db2689c412ce5637ab897b24d03.jpg"
+width="760"
+height="369"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="image-flight2" srcset="
+/project/flight-simulator/p2_hu811b77eb99eff1e52d1db0da851a90ec_109771_2399b20ca5b6be34eeb6b93f491c26cd.jpg 400w,
+/project/flight-simulator/p2_hu811b77eb99eff1e52d1db0da851a90ec_109771_5b87c38a1631a40ab37876fecef043b4.jpg 760w,
+/project/flight-simulator/p2_hu811b77eb99eff1e52d1db0da851a90ec_109771_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://guoziyang27.github.io/project/flight-simulator/p2_hu811b77eb99eff1e52d1db0da851a90ec_109771_2399b20ca5b6be34eeb6b93f491c26cd.jpg"
+width="760"
+height="364"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="image-flight3" srcset="
+/project/flight-simulator/p3_hu811b77eb99eff1e52d1db0da851a90ec_117232_4ed88a269a8851cc31e2f264ef0eda4d.jpg 400w,
+/project/flight-simulator/p3_hu811b77eb99eff1e52d1db0da851a90ec_117232_c835e71c483551e4bb0cce77c111b616.jpg 760w,
+/project/flight-simulator/p3_hu811b77eb99eff1e52d1db0da851a90ec_117232_1200x1200_fit_q75_lanczos.jpg 1200w"
+src="https://guoziyang27.github.io/project/flight-simulator/p3_hu811b77eb99eff1e52d1db0da851a90ec_117232_4ed88a269a8851cc31e2f264ef0eda4d.jpg"
+width="760"
+height="362"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item></channel></rss>
