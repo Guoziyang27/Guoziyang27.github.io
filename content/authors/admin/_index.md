@@ -1,77 +1,53 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ziyang Guo
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: Undergraduate Student in Zhejiang University
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Zhejiang University
+  url: "https://www.zju.edu.cn/english/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on leveraging visualization and data mining to combine machine computing power and human cognition to convert overwhelming information into knowledge.
 
-# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Visualization
+- Human-Computer Interaction
+- Machine Learning
 
-# Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.E. in Computer Science & Techology
+    institution: Zhejiang University
+    year: 2018-2022
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  link: https://github.com/Guoziyang27
+- icon: cv
+  icon_pack: fai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+email: "ziyangguo1030@gmail.com"
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an undergraduate student at Zhejiang Univeristy, studying [Computer Science and Technology](http://www.en.cs.zju.edu.cn/). Currently, I am working as a research intern at [ZJU IDG](https://zjuidg.org/) and [CMU DIG](https://dig.cmu.edu/), where I am advised by [Prof. Yingcai Wu](http://www.ycwu.org/) and [Prof. Adam Perer](https://perer.org/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on leveraging visualization and data mining to combine machine computing power and human cognition and convert overwhelming information into knowledge.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Specifically, my research aims to reveal insights in event sequence data and use visualization to help interpret AI.
