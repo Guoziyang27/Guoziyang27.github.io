@@ -46,7 +46,7 @@ social:
 email: "ziyangguo1030@gmail.com"
 ---
 
-I am an undergraduate student at Zhejiang Univeristy, studying [Computer Science and Technology](http://www.en.cs.zju.edu.cn/). Currently, I am working as a research intern at [ZJU IDG](https://zjuidg.org/) and [CMU DIG](https://dig.cmu.edu/), where I am advised by [Prof. Yingcai Wu](http://www.ycwu.org/) and [Prof. Adam Perer](https://perer.org/).
+I am an undergraduate student at Zhejiang Univeristy, majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn/). Currently, I am working as a research intern at [ZJU IDG](https://zjuidg.org/) and [CMU DIG](https://dig.cmu.edu/), where I am advised by [Prof. Yingcai Wu](http://www.ycwu.org/) and [Prof. Adam Perer](https://perer.org/).
 
 My research focuses on leveraging visualization and data mining to combine machine computing power and human cognition and convert overwhelming information into knowledge.
 
